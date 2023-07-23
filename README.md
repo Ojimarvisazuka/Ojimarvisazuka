@@ -1,4 +1,4 @@
-# HELLO, I AM AZUKA MARVIS OJI 
+# AZUKA MARVIS OJI 
 Advanced Excel || SQ || Power BI || Tableau || ArcGIS & Spatial Data
 
  

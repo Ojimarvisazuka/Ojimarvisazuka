@@ -1,5 +1,5 @@
 # AZUKA MARVIS OJI 
-Advanced Excel || SQ || Power BI || Tableau || ArcGIS & Spatial Data
+Advanced Excel || SQL || Power BI || Tableau || ArcGIS & Spatial Data
 
  
   
